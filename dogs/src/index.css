@@ -68,15 +68,6 @@ button:focus-visible {
   }
 }
 
-img {
-  height: 350px;
-  
-}
-
-.center-btn {
-  display: flex;
-  justify-content: center;  
-}
 
 .discover-btn {
   border-radius: 5px;
