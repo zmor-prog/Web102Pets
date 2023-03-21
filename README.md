@@ -2,7 +2,7 @@
 
 Submitted by: **Zamirah Morgan**
 
-This web app: **insert description**
+This web app: **Discover random dogs**
 
 Time spent: **6** hours spent in total
 
@@ -10,7 +10,7 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
 - [X] **Only one item/API call is viewable at a time**
 - [X] **API calls appear random to the user**
 - [X] **At least one image is displayed per API call**
