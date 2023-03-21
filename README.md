@@ -2,18 +2,18 @@
 
 Submitted by: **Zamirah Morgan**
 
-This web app: **insert description**
+This web app: **Discover random dogs**
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
-- [ ] **Only one item/API call is viewable at a time**
-- [ ] **API calls appear random to the user**
-- [ ] **At least one image is displayed per API call**
+- [X] **Clicking a button creates a new API fetch request and displays at least three attributes from the returned JSON data**
+- [X] **Only one item/API call is viewable at a time**
+- [X] **API calls appear random to the user**
+- [X] **At least one image is displayed per API call**
 - [ ] **Clicking on a displayed value for one attribute adds it to a displayed ban list**
 - [ ] **Attributes on the ban list prevent further images/API results with that attribute from being displayed**
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/zmor-prog/Web102Pets/blob/main/dogs_api_project%20-%20Copy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
